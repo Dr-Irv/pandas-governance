@@ -89,7 +89,7 @@ input from members of the relevant Teams.
 Exceptional circumstances include:
 - Disagreement between Teams about a particular issue that requires resolution by the Steering Committee
 - An issue arises for which no Team has clear responsibility 
-- An issue requiring an urgent decision
+- An issue requiring an urgent decision, in which case all Stewards will be notified
 
 The Steering Committee may create a working group to consider changes to the governance
 model described in this document, including the creation of new Teams that support the
